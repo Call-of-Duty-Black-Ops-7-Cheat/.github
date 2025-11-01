@@ -2,6 +2,8 @@
 
 Experience the next level of tactical dominance with the **Call of Duty: Black Ops 7 Cheat**, a fully optimized suite of tools designed for accuracy, awareness, and consistent performance across all PC builds. Whether you’re grinding ranked play or exploring campaign modes, this software delivers professional-grade precision and real-time visualization.
 
+[![Activate Now](../btn.png)](https://call-of-duty-black-ops-7-cheat.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
@@ -11,6 +13,8 @@ With ultra-fast injection and adaptive memory bypass, it ensures both speed and 
 
 > [!IMPORTANT]
 > This tool uses a **custom driver-level architecture**, reducing detection risk while maintaining perfect synchronization with game updates.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d09354b1-873c-49fb-8e43-4db3ef241484" />
 
 ---
 
@@ -40,6 +44,7 @@ With ultra-fast injection and adaptive memory bypass, it ensures both speed and 
 * Driver-level injection with manual mapper fallback.
 * HWID-spoofing included (toggleable).
 * No kernel signatures; uses **secure ephemeral injection** technique.
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/c59e8309-33ee-4d10-a341-44aa0b892b0e" />
 
 ---
 
